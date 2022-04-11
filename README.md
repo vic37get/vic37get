@@ -1,6 +1,6 @@
 ## Olá, me chamo Victor ! 
 ### Bem vindo ao meu perfil GitHub 👋
-🌱 Atualmente estou estudando Data Science.
+🌱 Atualmente estou estudando Ciência de Dados.
 
 ### Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40" />
