@@ -8,7 +8,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)
 - 🛢 &nbsp;
   ![Sqlite](https://img.shields.io/badge/-Sqlite-333333?style=flat&logo=sqlite)
@@ -21,7 +21,16 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
    
 ### :books: Learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
+- :robot: &nbsp;
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=TensorFlow)
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=PyTorch)
+  
+- 🌐 &nbsp;
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
+  
+- :computer: &nbsp;
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 
 ## My Stats
 <p>
