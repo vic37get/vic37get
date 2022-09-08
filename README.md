@@ -12,7 +12,7 @@
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)
 - 🛢 &nbsp;
   ![Sqlite](https://img.shields.io/badge/-Sqlite-333333?style=flat&logo=sqlite)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -25,6 +25,9 @@
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=TensorFlow)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=PyTorch)
   
+- 🛢 &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+  
 - 🌐 &nbsp;
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
@@ -34,7 +37,7 @@
 
 ## My Stats
 <p>
-<a href="https://github.com/joaomota59">
+<a href="https://github.com/vic37get">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vic37get&show_icons=true&theme=algolia" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vic37get&layout=compact&langs_count=8&theme=algolia"/>
 </a>
