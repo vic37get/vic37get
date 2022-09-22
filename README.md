@@ -38,8 +38,8 @@
 ## My Stats
 <p>
 <a href="https://github.com/vic37get">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vic37get&show_icons=true&theme=algolia" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vic37get&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-seven-drab-16.vercel.app/api?username=vic37get&show_icons=true&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats-seven-drab-16.vercel.app/api/top-langs/?username=vic37get&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
           
