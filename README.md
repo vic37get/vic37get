@@ -34,8 +34,7 @@
   
 - :computer: &nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
-
-## My Stats
+<br>
 <p>
 <a href="https://github.com/vic37get">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vic37get&count_private=true&show_icons=true&theme=dark"/>
