@@ -12,7 +12,6 @@
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)
 - 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
   ![Sqlite](https://img.shields.io/badge/-Sqlite-333333?style=flat&logo=sqlite)
 - ⚙️ &nbsp;
@@ -28,7 +27,7 @@
   ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=PyTorch)
   
 - 🛢 &nbsp;
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
   
 - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
