@@ -9,6 +9,7 @@
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
@@ -29,7 +30,6 @@
   ![Sqlite](https://img.shields.io/badge/-Sqlite-333333?style=flat&logo=sqlite)
   
 - 🌐 &nbsp;
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
   
 - :computer: &nbsp;
