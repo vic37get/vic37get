@@ -1,5 +1,10 @@
 ### Olá, eu sou o Victor 👋
 
+- :books: Estudante de **Ciência da Computação** na **Universidade Federal do Piauí - UFPI**.
+- :electric_plug: Técnico em **Eletrônica** pelo **Instituto Federal de Educação Ciência e Tecnologia do Piauí - IFPI** (2018).
+- :briefcase: Estagiário em Ciência da Computação no **Tribunal de Contas do Estado do Piauí - TCE-PI**
+- :mag_right: Pesquisador no Laboratório de Engenharia de Software, **LOST**, no Departamento de Computação da Universidade Federal do Piauí.
+
 #### 🛠 &nbsp;Tecnologias
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
