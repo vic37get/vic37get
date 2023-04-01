@@ -16,7 +16,6 @@
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)   
   #### :books: Aprendendo
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=TensorFlow)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=PyTorch)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
