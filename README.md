@@ -2,7 +2,6 @@
 
 - :books: Estudante de **Ciência da Computação** na **Universidade Federal do Piauí - UFPI**.
 - :electric_plug: Técnico em **Eletrônica** pelo **Instituto Federal de Educação Ciência e Tecnologia do Piauí - IFPI**.
-- :briefcase: Estagiário em Ciência da Computação no **Tribunal de Contas do Estado do Piauí - TCE-PI**.
 
 #### 🛠 &nbsp;Tecnologias
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
