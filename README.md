@@ -12,9 +12,10 @@
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)   
-  #### :books: Aprendendo
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=PyTorch)
+  #### :books: Aprendendo
+
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
