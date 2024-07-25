@@ -2,7 +2,6 @@
 
 - :books: Estudante de **Ciência da Computação** na **Universidade Federal do Piauí - UFPI**.
 - :electric_plug: Técnico em **Eletrônica** pelo **Instituto Federal de Educação Ciência e Tecnologia do Piauí - IFPI**.
-- 
 <p>
 <a href="https://github.com/vic37get">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vic37get&count_private=true&show_icons=true&theme=dark" />
