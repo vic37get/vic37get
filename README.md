@@ -1,6 +1,6 @@
 ### Olá, eu sou o Victor 👋
 
-- :books: Estudante de **Ciência da Computação** na **Universidade Federal do Piauí - UFPI**.
+- :books: **Cientista da Computação** pela **Universidade Federal do Piauí - UFPI**.
 - :electric_plug: Técnico em **Eletrônica** pelo **Instituto Federal de Educação Ciência e Tecnologia do Piauí - IFPI**.
 <p>
 <a href="https://github.com/vic37get">
