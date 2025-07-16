@@ -1,8 +1,17 @@
 ### Olá, eu sou o Victor 👋
 
-- :mortar_board: **Cientista da Computação** pela **Universidade Federal do Piauí - UFPI**.
-- :electric_plug: Técnico em **Eletrônica** pelo **Instituto Federal de Educação Ciência e Tecnologia do Piauí - IFPI**.
 <p>
+
+## Sobre mim
+
+- 🖥️ Técnico em Eletrônica pelo IFPI
+- 🎓 Graduado em Ciência da Computação na UFPI
+- 👨‍🎓 Mestrando em Engenharia Elétrica pela UFPI
+- 🌍 Explorando novas tecnologias e desenvolvendo soluções.
+
+---
+<br>
+
 <a href="https://github.com/vic37get">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vic37get&count_private=true&show_icons=true&theme=light" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vic37get&count_private=true&layout=compact&langs_count=8&theme=light"/>
