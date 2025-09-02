@@ -5,7 +5,7 @@
 ## Sobre mim
 
 - 🖥️ Técnico em Eletrônica pelo IFPI
-- 🎓 Graduado em Ciência da Computação na UFPI
+- 🎓 Graduado em Ciência da Computação pela UFPI
 - 👨‍🎓 Mestrando em Engenharia Elétrica pela UFPI
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções.
 
